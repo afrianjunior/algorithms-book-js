@@ -1,0 +1,11 @@
+{
+  "name": "algorithm-book-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/afrianjunior/algorithms-book-js.git",
+  "author": "afrianjunior <afrian.junior26@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "ds:linked-list": "node ./LinkedList.js"
+  }
+}
