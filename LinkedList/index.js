@@ -18,7 +18,7 @@ class LinkedList {
     this[head] = null
   }
 
-  add (data) {
+  add (data = 0) {
     // create new node
     const newNode = new LinkedListNode(data)
     if (this[head] === null) {
