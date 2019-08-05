@@ -62,7 +62,12 @@ class LinkedList {
 
 // Process
 
-let List = new LinkedList(12)
+let List = new LinkedList()
+
+List.add(1)
+List.add(34)
+List.add(72)
+List.add(8)
 
 // Print result
 
